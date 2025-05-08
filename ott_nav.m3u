@@ -86,7 +86,7 @@ https://myblmprod-cdn.toffeelive.com/live/match-1/index.m3u8
 #EXTVLCOPT:http-user-agent=
 #EXTHTTP:{"cookie":""}
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1744288359-LIVE-1280.jpg", LIVE | PSL 2025
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1746628681-1744288359-LIVE-1280.jpg", LIVE | PSL 2025
 #EXTVLCOPT:http-user-agent=
 #EXTHTTP:{"cookie":""}
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
