@@ -82,7 +82,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlis
 #EXTVLCOPT:http-user-agent=
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748447578:KeyName=prod_live_mybl:Signature=NjSOku1oaPpIejYfvUXBM1Bf2L_SqNh5_ZNZDZ1-qSFfP0JyH-WJEu0SA8km8U75Iff8Jb9g3uWh4hgMpidmAg"}
 https://myblmprod-cdn.toffeelive.com/live/match-1/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1747854960-LIVE.jpg", LIVE | BAN vs PAK
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1748371027-Promo-1280.jpg", LIVE | BAN vs PAK
 #EXTVLCOPT:http-user-agent=
 #EXTHTTP:{"cookie":""}
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
