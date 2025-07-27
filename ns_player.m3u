@@ -225,17 +225,6 @@
     "drmLicense": ""
   },
   {
-    "name": "LIVE | Bangladesh vs Pakistan",
-    "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
-    "logo": "https://image.tsports.com/images/mobile_thumbnail/1752918661-OTT-live-1920.jpg",
-    "origin": "live.tsports.com",
-    "referrer": "BuddyXiptv",
-    "userAgent": "",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
     "name": "Pogo",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png",
@@ -419,6 +408,17 @@
     "referrer": "BuddyXiptv",
     "userAgent": "",
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750297799:KeyName=prod_linear:Signature=TDBMq5Xc03aTvlgHIbGzOJRfXo1Ci6MBkMVPtER7RMKYwBr6xRLqsXpDCYdHaDC_ojg5k5EC7ww-uWB62kirBg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "T Sports Live 01",
+    "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg",
+    "origin": "live.tsports.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "",
     "drmScheme": "",
     "drmLicense": ""
   },
